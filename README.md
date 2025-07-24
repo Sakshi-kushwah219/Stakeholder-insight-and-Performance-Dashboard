@@ -2,11 +2,11 @@
 
 An interactive Tableau dashboard designed to analyze and visualize stakeholder performance metrics across the insurance industry. This project provides data-driven insights into premiums, equity value, profitability, and shareholding distribution — enabling strategic decision-making and performance monitoring.
 
+---
 ## 🖼️ Dashboard Preview
 
-![Stakeholder Insights Dashboard]([./Screenshot%202025-07-24%20143850.png](https://github.com/Sakshi-kushwah219/Stakeholder-insight-and-Performance-Dashboard/commit/dad21d35570bb87c6301a545a0832a1da7fe3fa8))
+(https://github.com/Sakshi-kushwah219/Stakeholder-insight-and-Performance-Dashboard/commit/dad21d35570bb87c6301a545a0832a1da7fe3fa8)
 
----
 ---
 
 ## 🧠 Project Objective
@@ -53,5 +53,4 @@ This dashboard is ideal for insurance analysts, business strategists, and manage
 
 
 
-## 📂 Folder Structure
 
