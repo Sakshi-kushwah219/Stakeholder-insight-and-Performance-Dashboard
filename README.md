@@ -5,8 +5,7 @@ An interactive Tableau dashboard designed to analyze and visualize stakeholder p
 ---
 ## 🖼️ Dashboard Preview
 
-> ![1 home](https://github.com/user-attachments/assets/3b7b824a-62e7-4912-a1ab-b3a6cacb5616)
-
+https://github.com/Sakshi-kushwah219/Stakeholder-insight-and-Performance-Dashboard/blob/main/Dashoard.png
 ---
 
 ## 🧠 Project Objective
